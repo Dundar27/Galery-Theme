@@ -1,1 +1,2 @@
-# Theme-1 created by Davut Burak Dündar
+# Galeri Teması
+Bu sayfa [Davut Burak Dündar] tarafından oluşturulmuştur.
