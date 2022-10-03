@@ -1,0 +1,232 @@
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .navigation,
+  .advertisement,
+  .gallery,
+  .container,
+  header,
+  footer {
+    width: 100%;
+  }
+
+  .navigation,
+  .advertisement,
+  .gallery,
+  header,
+  footer,
+  footer .links ul {
+    padding: 0;
+  }
+
+  .advertisement,
+  .gallery,
+  .container,
+  footer {
+    margin-top: 1rem;
+  }
+
+  header,
+  header .image,
+  footer {
+    display: block;
+  }
+
+  header .content,
+  header .image {
+    width: 90%;
+  }
+
+  header .content,
+  header .image,
+  header .content .form-box button,
+  footer .contact button {
+    margin: auto;
+  }
+
+  header .content,
+  header .image,
+  footer .contact button,
+  footer div {
+    padding: 0.5rem;
+  }
+
+  header .content .form-box input[type="email"],
+  footer .contact button {
+    width: 60%;
+  }
+
+  .navigation {
+    padding-top: 0.5rem;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  .navigation ul a li {
+    font-size: 20px;
+  }
+  .advertisement {
+    height: 8rem;
+  }
+  .container {
+    height: 50vh;
+    overflow-x: visible;
+  }
+  .container .box:last-child {
+    display: none;
+  }
+
+  header {
+    height: auto;
+    padding-top: 1rem;
+  }
+  header .content {
+    text-align: left;
+  }
+  header .content h1 {
+    font-size: 32px;
+  }
+  header .image {
+    height: 30%;
+  }
+  header .content .form-box {
+    padding: 1rem;
+  }
+  header .content .form-box input[type="email"] {
+    border: 1px solid #d11476;
+  }
+  header .content .form-box button {
+    width: 30%;
+  }
+  #go-up-icon {
+    font-size: 42px;
+  }
+
+  footer .links ul {
+    text-align: center;
+  }
+  footer .links ul li {
+    list-style: none;
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .navigation,
+  header .image,
+  header .content,
+  footer {
+    width: 90%;
+  }
+
+  header,
+  header.image {
+    display: block;
+  }
+
+  header .content,
+  header .image,
+  footer div,
+  footer .contact button {
+    padding: 0.5rem;
+    margin: auto;
+  }
+
+  header .content,
+  footer .links ul {
+    text-align: center;
+  }
+
+  .navigation {
+    padding: 1rem;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  .navigation ul a li {
+    font-size: 28px;
+  }
+  .container {
+    height: 80vh;
+  }
+  .container .box:last-child {
+    display: none;
+  }
+  header .image {
+    height: 20%;
+  }
+  header .content .form-box {
+    padding: 1.5rem;
+  }
+  footer {
+    display: block;
+    margin-top: 1rem;
+    padding: 1rem;
+  }
+  footer .links ul {
+    padding: 0;
+  }
+  footer .links ul li {
+    list-style: none;
+  }
+  footer .contact button {
+    width: 60%;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1023px) {
+  header .image,
+  header .image img {
+    width: 100%;
+    background-size: contain;
+  }
+
+  .navigation {
+    width: 55%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+  .navigation ul a li {
+    font-size: 30px;
+  }
+  header .image {
+    justify-content: flex-start;
+  }
+  .container .box:last-child {
+    display: none;
+  }
+  footer .mail-box .form-box button {
+    margin-top: 1rem;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+  .navigation {
+    width: 50%;
+
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+  .navigation ul a li {
+    font-size: 38px;
+  }
+  .advertisement {
+    height: 8rem;
+  }
+  .container {
+    height: 90vh;
+  }
+}
+@media screen and (min-width: 1201px) {
+  .navigation {
+    width: 50%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+  .navigation ul a li {
+    font-size: 42px;
+  }
+  header .content p {
+    font-size: 22px;
+    font-weight: 500;
+    overflow-y: hidden;
+  }
+  .advertisement {
+    height: 10rem;
+  }
+  .container {
+    height: 100vh;
+  }
+}

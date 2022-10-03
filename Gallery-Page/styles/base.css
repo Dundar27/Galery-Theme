@@ -1,0 +1,19 @@
+@import url("./fonts/SourceSansPro-Regular.ttf");
+* {
+  overflow-x: hidden;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+
+  background-image: linear-gradient(
+    to right,
+    #d11476,
+    #ba0b88ee,
+    #81199b,
+    #7227a2,
+    #3232aa
+  );
+}

@@ -1,0 +1,101 @@
+.theme-plate-1 {
+  background-image: linear-gradient(to right, #456ef0, #3d0fb2) !important;
+}
+.switch-theme-color-1 {
+  color: #3e68f1 !important;
+}
+.switch-theme-title-color-1 {
+  color: #0233d3 !important;
+}
+.switch-theme-label-color-1 {
+  color: #1740c9 !important;
+}
+.switch-theme-border-color-1 {
+  border: 2px solid #456ef0 !important;
+}
+.switch-theme-background-1 {
+  background: #456ef0 !important;
+}
+.nav-link-1 {
+  background: #fff !important;
+  color: #456ef0 !important;
+}
+.nav-link-1:hover {
+  background: #456ef0 !important;
+  color: #fff !important;
+  transition: 0.8s !important;
+}
+.switch-theme-button-1 {
+  background: #456ef0 !important;
+  box-shadow: none !important;
+}
+.switch-theme-button-1:hover {
+  background: #3d0fb2 !important;
+  box-shadow: 0px 3px 8px #3d0fb2 !important;
+  transition: 0.8s !important;
+}
+.switch-theme-ads-button-1 {
+  box-shadow: none !important;
+}
+.switch-theme-ads-button-1:hover {
+  box-shadow: 0px 8px 15px #2a56e7 !important;
+  transition: 0.8s !important;
+}
+/******************************************Theme Two*************************************************/
+.theme-plate-2 {
+  background-image: linear-gradient(
+    to right,
+    #845ec2,
+    #b39cd0,
+    #fbeaff,
+    #00c9a7
+  ) !important;
+}
+.switch-theme-navigation-2 {
+  background: #00dab5;
+}
+.switch-theme-color-2 {
+  color: #845ec2 !important;
+}
+.switch-theme-title-color-2 {
+  color: #00c9a7 !important;
+}
+.switch-theme-label-color-2 {
+  color: #7a4fc0 !important;
+}
+.switch-theme-border-color-2 {
+  border: 2px solid #7a4fc0 !important;
+}
+.switch-theme-background-2 {
+  background: #6941aa !important;
+}
+.nav-link-2 {
+  background: none !important;
+  color: #fff !important;
+}
+.switch-link-2 {
+  background: white !important;
+  border-radius: 25px;
+}
+.nav-link-2:hover {
+  background: #fff !important;
+  color: #00dab5 !important;
+  transition: 0.8s !important;
+}
+.switch-theme-button-2 {
+  background: #6941aa !important;
+  box-shadow: none !important;
+}
+.switch-theme-button-2:hover {
+  background: #6038a0 !important;
+  box-shadow: 0px 5px 10px #4f327e !important;
+  transition: 0.8s !important;
+}
+.switch-theme-ads-button-2 {
+  background: #00c9a7 !important;
+  box-shadow: none !important;
+}
+.switch-theme-ads-button-2:hover {
+  box-shadow: 0px 5px 10px #00aa8e !important;
+  transition: 0.8s !important;
+}
